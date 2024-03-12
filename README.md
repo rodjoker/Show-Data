@@ -1,12 +1,13 @@
 #  Databox: Tu panel de control personal para datos
 
 ## Descripcion General
-
-En este proyecto decidí implementar bootstrap para aprender otra herramienta al desarrollo FrontEnd, junto a Tailwind Css y Chakra UI espero ser un desarrollador mas integral, me tope con un inconveniente ya que la api que se proporciono tiene restricciones de CORS, sin embargo decidi continuar con el proceso mostrando mis habilidades para consumir apis y mostrar resultados en el frontend, agradezco la oportunidad expresando tambien que si decean darme los permisos podre utilizar l aapi proporcionada. 
+En este proyecto decidí implementar bootstrap para aprender otra herramienta al desarrollo FrontEnd, junto a Tailwind Css y Chakra UI espero ser un desarrollador más integral, me tope con un inconveniente ya que la api que se proporcionó tiene restricciones de CORS, sin embargo decidí continuar con el proceso mostrando mis habilidades para consumir apis y mostrar resultados en el frontend, agradezco la oportunidad expresando también que si desean darme los permisos podrá utilizar la api proporcionada.
 
 ### Screenshot
 
 ![ForntEnd](./src/image/showData.png)
+
+- despliegue URL: [Vercel](https://show-data-gamma.vercel.app/)
 
 ## Reflección
 
