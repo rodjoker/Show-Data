@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-     <div className="container md:container p-3">
+     <div className="container md:container"><br/>
       <Header/><br/>
       <SearchComponent/>
      </div>
